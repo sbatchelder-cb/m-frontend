@@ -1,8 +1,0 @@
-= m-frontend Best Practices 
-This asciidoc is an example that will be pulled from GitHub. 
-
-== Practice 1 
-Make sure to do this
-
-=== Sub Practice 1.a
-Also make sure to do this. 
